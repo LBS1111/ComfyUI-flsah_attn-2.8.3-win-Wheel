@@ -13,4 +13,4 @@
 1. 下载 `Release` 中的 `.whl` 文件。
 2. 在你的 Python 环境中运行：
    ```bash
-   pip install flash_attn-2.7.0.post2+cu128cp311cp311win_amd64.whl
+   pip install flash_attn-2.8.3-cp311-cp311-win_amd64.whl
