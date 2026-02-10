@@ -10,7 +10,7 @@
 - **OS**: Windows 10/11
 
 ## 🚀 安装方法 (Installation)
-1. 下载 `dist` 目录下的 `.whl` 文件。
+1. 下载 `Release` 中的 `.whl` 文件。
 2. 在你的 Python 环境中运行：
    ```bash
    pip install flash_attn-2.7.0.post2+cu128cp311cp311win_amd64.whl
