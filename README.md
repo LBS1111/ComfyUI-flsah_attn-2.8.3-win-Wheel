@@ -1,6 +1,6 @@
 # Flash Attention v2 Windows Prebuild
 
-针对 Windows 环境下 ComfyUI/Flux 训练编译的 Flash Attention v2 预编译包。
+针对 Windows 环境下 ComfyUI训练编译的 Flash Attention v2 预编译包。
 
 ## 📦 环境信息 (Environment)
 - **Python**: 3.11
